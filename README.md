@@ -24,7 +24,7 @@
 - Hour of Code
 - Root Robot https://edu.irobot.com/learning-library?gradeValue=Grades%201-3&toggle=lessons
 ## Computer Science Fundamentals and Computational Thinking
-- Hour of Code
+- Hour of Code https://hourofcode.com/us/learn
 ## Typing and Using Technology 
 - Dance Map Typing https://www.bbc.co.uk/bitesize/articles/z3c6tfr#zn9s3qt
 - https://www.typingclub.com/kids-typing
