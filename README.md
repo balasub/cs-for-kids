@@ -102,7 +102,7 @@ Unless otherwise noted, the educational content on featured sites is free. Conte
 - [CodeNext with Google](https://codenext.withgoogle.com/) Initiative bringing coding to high schoolers in Black, Latinx, and Indigenous communities. Application to affiliate with Google to receive funding and benefits by bringing CodeNext to your community
 
 ## List of Lists: Other Collections of CS Teaching Resources
-
+- [List of Books for Learners and Educators](https://lukembalmer.github.io/HowToTeachCS/furtherreading.html)
 - [CubeForTeachers](https://cubeforteachers.com/) Teachers sharing resources with other teachers
 - [Free Hour of Code Activities](https://teachyourkidscode.com/free-coding-activities-for-hour-of-code-week/)
 - [NCWIT Resource Library](https://ncwit.org/resources/) Chock full of books and other resources!
