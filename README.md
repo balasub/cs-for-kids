@@ -28,6 +28,7 @@ Unless otherwise noted, the educational content on featured sites is free. Conte
 ## Programming
 - ScratchJr - [Android](https://play.google.com/store/apps/details?id=org.scratchjr.android&hl=en_US) - [IOS](https://apps.apple.com/us/app/scratchjr/id895485086)
 - Tynker Junior - [Android](https://play.google.com/store/apps/details?id=com.tynker.TynkerIconCoding&hl=en_US) - [IOS](https://apps.apple.com/us/app/tynker-junior-coding-for-kids/id1393933000)
+- [Blockly Games](https://blockly.games/)
 - [Code.org Hour of Code Activities](https://studio.code.org/catalog?marketingInitiative=hoc): Incredible variety of free browser-based lessons, including adventures in [Minecraft](https://studio.code.org/s/mc/lessons/1/levels/1), making art with Elsa from [Frozen](https://studio.code.org/s/frozen/lessons/1/levels/1), and learning about AI with a [Dance Party](https://studio.code.org/s/dance-ai-2023/lessons/1/levels/1)
 - [Root Robot](https://edu.irobot.com/shop/coding-robots/root?variant=269694) Educational robot that learners can program via an app and use to draw on a mat, play games, or learn with lessons from the [Root Robot Learning Library](https://edu.irobot.com/learning-library?gradeValue=PreK-K&toggle=lessons). $100+ 
 - [The Foos(IOS)](https://apps.apple.com/us/app/the-foos-coding-5-award-winning-free-educational/id938016211?mt=12) Game introducing programming through play, suited for 5 and up. Made by codeSpark but free.
